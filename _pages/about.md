@@ -16,5 +16,5 @@ redirect_from:
 
 
 # News
-* [June 2021] Conference paper ICRA 2021:["Locus: LiDAR-based Place Recognition using Spatiotemporal Higher-Order Pooling"](https://arxiv.org/abs/2011.14497). Code [github](https://github.com/csiro-robotics/locus). Presentation [youtube](https://www.youtube.com/watch?v=LS4OvVy8LVU).
+* [June 2021] Conference paper ICRA 2021:"Locus: LiDAR-based Place Recognition using Spatiotemporal Higher-Order Pooling". Pre-print: [arXiv](https://arxiv.org/abs/2011.14497). Code: [github](https://github.com/csiro-robotics/locus). Presentation: [youtube](https://www.youtube.com/watch?v=LS4OvVy8LVU).
 
