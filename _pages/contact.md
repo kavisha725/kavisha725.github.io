@@ -5,6 +5,9 @@ permalink: /contact/
 author_profile: true
 ---
 
-Email: kavisha.vidanapathirana [at] qut.edu.au
-Email: kavisha.vidanapathirana [at] data61.csiro.au
+Personal email: vid.kavisha@gmail.com
+
+University email: kavisha.vidanapathirana@qut.edu.au
+
+CSIRO email: kavisha.vidanapathirana@data61.csiro.au
 
