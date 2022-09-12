@@ -19,7 +19,7 @@ redirect_from:
 
 
 # News
-* [May 2022] Won 2nd place in the [CMU AirLab General Place Recognition Competition at ICRA 2022](http://gprcompetition.com/). Invited talk: [youtube](https://www.youtube.com/watch?v=xpEKOyJ7OIU&t=6503s). Leaderboard: [AIcrowd](https://www.aicrowd.com/challenges/icra2022-general-place-recognition-city-scale-ugv-localization/leaderboards).
+* [May 2022] Won 2nd place in round-1 of the [CMU AirLab General Place Recognition Competition at ICRA 2022](http://gprcompetition.com/). Invited talk: [youtube](https://www.youtube.com/watch?v=xpEKOyJ7OIU&t=6503s). Leaderboard: [AIcrowd](https://www.aicrowd.com/challenges/icra2022-general-place-recognition-city-scale-ugv-localization/leaderboards?challenge_round_id=1161).
 * [February 2022] Conference paper ICRA 2022: "LoGG3D-Net: Locally Guided Global Descriptor Learning for 3D Place Recognition". Pre-print: [arXiv](https://arxiv.org/abs/2109.08336) | Presentation: [youtube](https://www.youtube.com/watch?v=HB6C6RHeYUU) | Code: [github](https://github.com/csiro-robotics/LoGG3D-Net) 
 <a class="github-button" href="https://github.com/csiro-robotics/LoGG3D-Net" data-icon="octicon-star" data-show-count="true" aria-label="Star csiro-robotics/LoGG3D-Net on GitHub">Star</a>.
 * [January 2022] Served as a reviewer for IEEE ICRA and IEEE RA-L.
