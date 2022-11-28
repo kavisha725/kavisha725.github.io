@@ -19,10 +19,11 @@ redirect_from:
 
 
 # News
-* [May 2022] Won 2nd place in round-1 of the [CMU AirLab General Place Recognition Competition at ICRA 2022](http://gprcompetition.com/). Invited talk: [youtube](https://www.youtube.com/watch?v=xpEKOyJ7OIU&t=6503s).
-* [February 2022] Conference paper ICRA 2022: "LoGG3D-Net: Locally Guided Global Descriptor Learning for 3D Place Recognition". Pre-print: [arXiv](https://arxiv.org/abs/2109.08336) | Presentation: [youtube](https://www.youtube.com/watch?v=HB6C6RHeYUU) | Code: [github](https://github.com/csiro-robotics/LoGG3D-Net) 
+* [May 2022] Won 2nd place in the CMU AirLab General Place Recognition Competition at ICRA 2022. Invited talk: [video](https://www.youtube.com/watch?v=xpEKOyJ7OIU&t=6503s).
+* [February 2022] Conference paper at ICRA 2022: "LoGG3D-Net: Locally Guided Global Descriptor Learning for 3D Place Recognition". 
+** [paper](https://arxiv.org/abs/2109.08336) | [video](https://www.youtube.com/watch?v=HB6C6RHeYUU) | [code](https://github.com/csiro-robotics/LoGG3D-Net) 
 <a class="github-button" href="https://github.com/csiro-robotics/LoGG3D-Net" data-icon="octicon-star" data-show-count="true" aria-label="Star csiro-robotics/LoGG3D-Net on GitHub">Star</a>.
-* [June 2021] Conference paper ICRA 2021:"Locus: LiDAR-based Place Recognition using Spatiotemporal Higher-Order Pooling". Pre-print: [arXiv](https://arxiv.org/abs/2011.14497) | Presentation: [youtube](https://www.youtube.com/watch?v=LS4OvVy8LVU) | Code: [github](https://github.com/csiro-robotics/locus) 
+* [June 2021] Conference paper at ICRA 2021:"Locus: LiDAR-based Place Recognition using Spatiotemporal Higher-Order Pooling". [paper](https://arxiv.org/abs/2011.14497) | [video](https://www.youtube.com/watch?v=LS4OvVy8LVU) | [code](https://github.com/csiro-robotics/locus) 
 <a class="github-button" href="https://github.com/csiro-robotics/locus" data-icon="octicon-star" data-show-count="true" aria-label="Star csiro-robotics/locus on GitHub">Star</a>.
 
 # Awards
