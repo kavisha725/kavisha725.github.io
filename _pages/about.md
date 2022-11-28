@@ -13,8 +13,8 @@ redirect_from:
 
 
 # About Me
-* I am a Ph.D. student in the School of Electrical Engineering and Robotics at the Queensland University of Technology, advised by Prof. [Sridha Sridharan](https://staff.qut.edu.au/staff/s.sridharan) and Prof. [Clinton Fookes](https://staff.qut.edu.au/staff/c.fookes). My project is in collaboration with the Robotics and Autonomous Systems Group, CSIRO Data61 [RASG](https://research.csiro.au/robotics/), advised by Dr. [Peyman Moghadam](https://people.csiro.au/m/p/peyman-moghadam).
-* Currently, I am a research intern at The Australian Institute for Machine Learning [AIML](https://www.adelaide.edu.au/aiml/), working with Prof. [Simon Lucey](https://scholar.google.com.au/citations?user=vmAe35UAAAAJ&hl=en). 
+* I am a Ph.D. student in the School of Electrical Engineering and Robotics at the Queensland University of Technology, advised by Prof. [Sridha Sridharan](https://staff.qut.edu.au/staff/s.sridharan) and Prof. [Clinton Fookes](https://staff.qut.edu.au/staff/c.fookes). My project is in collaboration with the Robotics and Autonomous Systems Group, CSIRO Data61 ([RASG](https://research.csiro.au/robotics/)), advised by Dr. [Peyman Moghadam](https://people.csiro.au/m/p/peyman-moghadam).
+* Currently, I am a research intern at The Australian Institute for Machine Learning ([AIML](https://www.adelaide.edu.au/aiml/)), working with Prof. [Simon Lucey](https://scholar.google.com.au/citations?user=vmAe35UAAAAJ&hl=en). 
 * My research interests lie in the general area of robotic vision and scene understanding, particularly for the task of localization.
 
 
