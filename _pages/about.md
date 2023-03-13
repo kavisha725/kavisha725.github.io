@@ -19,7 +19,7 @@ redirect_from:
 
 
 # News
-* [Feb 2023] Paper at RA-L: "Spectral Geometric Verification: Re-Ranking Point Cloud Retrieval for Metric Localization".
+* [Feb 2023] Paper at RA-L: "Spectral Geometric Verification: Re-Ranking Point Cloud Retrieval for Metric Localization". [paper](https://arxiv.org/abs/2210.04432).
 * [Jan 2023] Paper at ICRA 2023: "Wild-Places: A Large-Scale Dataset for Lidar Place Recognition in Unstructured Natural Environments". [paper](https://arxiv.org/abs/2211.12732)  [code](https://csiro-robotics.github.io/Wild-Places) <a class="github-button" href="https://github.com/csiro-robotics/Wild-Places" data-icon="octicon-star" data-show-count="true" aria-label="Star csiro-robotics/Wild-Places on GitHub">Star</a>.
 * [May 2022] Won 2nd place in the CMU AirLab General Place Recognition Competition at ICRA 2022. Invited talk: [video](https://www.youtube.com/watch?v=xpEKOyJ7OIU&t=6503s).
 * [Feb 2022] Paper at ICRA 2022: "LoGG3D-Net: Locally Guided Global Descriptor Learning for 3D Place Recognition". [paper](https://arxiv.org/abs/2109.08336) | [video](https://www.youtube.com/watch?v=HB6C6RHeYUU) | [code](https://github.com/csiro-robotics/LoGG3D-Net) 
