@@ -14,8 +14,8 @@ redirect_from:
 
 # About Me
 * I am a Ph.D. student at the Queensland University of Technology, advised by Prof. [Sridha Sridharan](https://staff.qut.edu.au/staff/s.sridharan) and Prof. [Clinton Fookes](https://staff.qut.edu.au/staff/c.fookes). My project is in collaboration with the Robotics and Autonomous Systems Group, CSIRO Data61 ([RASG](https://research.csiro.au/robotics/)), advised by Dr. [Peyman Moghadam](https://people.csiro.au/m/p/peyman-moghadam).
-* Currently, I am a research intern at The Australian Institute for Machine Learning ([AIML](https://www.adelaide.edu.au/aiml/)), working with Prof. [Simon Lucey](https://scholar.google.com.au/citations?user=vmAe35UAAAAJ&hl=en). 
-* My research interests lie in the general area of robotic vision and scene understanding, particularly for the task of localization.
+* During my Ph.D., I interned at The Australian Institute for Machine Learning ([AIML](https://www.adelaide.edu.au/aiml/)), working with Prof. [Simon Lucey](https://scholar.google.com.au/citations?user=vmAe35UAAAAJ&hl=en). 
+* My research interests lie in the general area of robotic vision and scene understanding. The work during my PhD has mainly focussed on the task of localization.
 
 
 # News
@@ -33,5 +33,5 @@ redirect_from:
 * CSIRO Data61 PhD Top-Up Scholarship (2020-2023).
 
 # Reviewer Activity
-* [Journals] Pattern Recognition, IEEE RA-L, ISPRS P&RS.
-* [Conferences] IEEE ICRA, IEEE/RSJ IROS.
+* [Journals] Pattern Recognition, RA-L, P&RS.
+* [Conferences] CoRL, ICCV, ICRA, IROS.
