@@ -19,7 +19,7 @@ redirect_from:
 
 
 # News
-* [2023 Oct] Paper at 3DV 2024: "Multi-Body Neural Scene Flow". [paper](https://arxiv.org/abs/2210.04432) | [code](https://github.com/kavisha725/MBNSF) 
+* [2023 Oct] Paper at 3DV 2024: "Multi-Body Neural Scene Flow". [paper](https://arxiv.org/abs/2310.10301) | [code](https://github.com/kavisha725/MBNSF) 
 <a class="github-button" href="https://github.com/kavisha725/MBNSF" data-icon="octicon-star" data-show-count="true" aria-label="Star kavisha725/MBNSF on GitHub">Star</a>.
 * [2023 Feb] Paper at RA-L: "Spectral Geometric Verification: Re-Ranking Point Cloud Retrieval for Metric Localization". [paper](https://arxiv.org/abs/2210.04432) | [code](https://github.com/csiro-robotics/SpectralGV) 
 <a class="github-button" href="https://github.com/csiro-robotics/SpectralGV" data-icon="octicon-star" data-show-count="true" aria-label="Star csiro-robotics/SpectralGV on GitHub">Star</a>.
