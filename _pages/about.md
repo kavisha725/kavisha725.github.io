@@ -38,4 +38,5 @@ redirect_from:
 # Reviewer Activity
 * [Journals] RA-L, Pattern Recognition, P&RS.
 * [Conferences] CoRL, ICCV, ICRA, IROS.
-  * test
+  * [Robotics] CoRL, ICRA, IROS.
+  * [Computer Vision] ICCV, ECCV.
