@@ -34,6 +34,7 @@ redirect_from:
 # Awards
 * ICRA 2022 - 2nd place in the General Place Recognition Competition organized by AirLab, Carnegie Mellon University. Invited talk: [video](https://www.youtube.com/watch?v=xpEKOyJ7OIU&t=6503s).
 * CSIRO Data61 PhD Top-Up Scholarship (2020-2023).
+* High Distinction - Sri Lanka Mathematical Olympiad 2012.
 
 # Reviewer Activity
 * Journals:
