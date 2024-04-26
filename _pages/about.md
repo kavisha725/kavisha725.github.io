@@ -36,7 +36,8 @@ redirect_from:
 * CSIRO Data61 PhD Top-Up Scholarship (2020-2023).
 
 # Reviewer Activity
-* [Journals] RA-L, Pattern Recognition, P&RS.
-* [Conferences] CoRL, ICCV, ICRA, IROS.
+* [Journals] 
+  * RA-L, Pattern Recognition, P&RS.
+* [Conferences]
   * [Robotics] CoRL, ICRA, IROS.
   * [Computer Vision] ICCV, ECCV.
