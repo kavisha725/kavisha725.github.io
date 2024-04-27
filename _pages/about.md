@@ -13,9 +13,9 @@ redirect_from:
 
 
 # About Me
-* I am a Ph.D. student at the Queensland University of Technology, advised by Prof. [Sridha Sridharan](https://staff.qut.edu.au/staff/s.sridharan) and Prof. [Clinton Fookes](https://staff.qut.edu.au/staff/c.fookes). My project is in collaboration with the Robotics and Autonomous Systems Group, CSIRO Data61 ([RASG](https://research.csiro.au/robotics/)), advised by Dr. [Peyman Moghadam](https://people.csiro.au/m/p/peyman-moghadam).
-* During my Ph.D., I interned at The Australian Institute for Machine Learning ([AIML](https://www.adelaide.edu.au/aiml/)), working with Prof. [Simon Lucey](https://scholar.google.com.au/citations?user=vmAe35UAAAAJ&hl=en). 
-* My research interests lie in the general area of robotic vision and scene understanding. The work during my PhD has mainly focussed on the task of localization.
+* I am a Ph.D. student at the Queensland University of Technology, advised by Prof. [Sridha Sridharan](https://staff.qut.edu.au/staff/s.sridharan) and Prof. [Clinton Fookes](https://staff.qut.edu.au/staff/c.fookes). My project is in collaboration with [CSIRO Robotics](https://research.csiro.au/robotics/), advised by Dr. [Peyman Moghadam](https://people.csiro.au/m/p/peyman-moghadam).
+* During my Ph.D., I interned (twice) at The Australian Institute for Machine Learning ([AIML](https://www.adelaide.edu.au/aiml/)), advised by Prof. [Simon Lucey](https://scholar.google.com.au/citations?user=vmAe35UAAAAJ&hl=en). 
+* My research interests lie in the general area of robotic vision and scene understanding. My Ph.D. work mainly focused on utilizing geometric and temporal priors that are abundant in the context of mobile robotics.
 
 
 # News
