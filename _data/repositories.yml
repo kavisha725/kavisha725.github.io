@@ -1,6 +1,5 @@
 github_users:
   - kavisha725
-  - alshedivat
 
 repo_description_lines_max: 2
 
@@ -10,4 +9,5 @@ github_repos:
   - csiro-robotics/Wild-Places
   - csiro-robotics/SpectralGV
   - kavisha725/MBNSF
+  - kavisha725/fyp_ws
 
