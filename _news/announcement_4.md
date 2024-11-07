@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper at ICRA 2023: "Wild-Places: A Large-Scale Dataset for Lidar Place Recognition in Unstructured Natural Environments". <i class='fas fa-file-alt'></i> [paper](https://arxiv.org/abs/2211.12732)
+Paper at ICRA 2023: "Wild-Places: A Large-Scale Dataset for Lidar Place Recognition in Unstructured Natural Environments". [paper](https://arxiv.org/abs/2211.12732)

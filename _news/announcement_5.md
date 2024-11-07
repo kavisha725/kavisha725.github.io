@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper at RA-L: "Spectral Geometric Verification: Re-Ranking Point Cloud Retrieval for Metric Localization". <i class='fas fa-file-alt'></i> [paper](https://arxiv.org/abs/2210.04432)
+Paper at RA-L: "Spectral Geometric Verification: Re-Ranking Point Cloud Retrieval for Metric Localization". [paper](https://arxiv.org/abs/2210.04432)

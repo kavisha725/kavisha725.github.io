@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper at ICRA 2021: "Locus: LiDAR-based Place Recognition using Spatiotemporal Higher-Order Pooling". <i class='fas fa-file-alt'></i> [paper](https://arxiv.org/abs/2011.14497)
+Paper at ICRA 2021: "Locus: LiDAR-based Place Recognition using Spatiotemporal Higher-Order Pooling".  [paper](https://arxiv.org/abs/2011.14497)

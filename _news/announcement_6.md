@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper at 3DV 2024 (oral - top 6.6%): "Multi-Body Neural Scene Flow". <i class='fas fa-file-alt'></i> [paper](https://arxiv.org/abs/2310.10301)
+Paper at 3DV 2024 (oral - top 6.6%): "Multi-Body Neural Scene Flow". [paper](https://arxiv.org/abs/2310.10301)

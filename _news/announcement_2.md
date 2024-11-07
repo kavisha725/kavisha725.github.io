@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper at ICRA 2022: "LoGG3D-Net: Locally Guided Global Descriptor Learning for 3D Place Recognition". <i class='fas fa-file-alt'></i> [paper](https://arxiv.org/abs/2109.08336)
+Paper at ICRA 2022: "LoGG3D-Net: Locally Guided Global Descriptor Learning for 3D Place Recognition". [paper](https://arxiv.org/abs/2109.08336)

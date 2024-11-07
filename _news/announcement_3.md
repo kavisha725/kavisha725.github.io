@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:sparkles: Won 2nd place in the CMU AirLab General Place Recognition Competition at ICRA 2022. Invited talk: <i class="fa fa-youtube-play"></i> [video](https://www.youtube.com/watch?v=xpEKOyJ7OIU&t=6503s).
+:sparkles: Won 2nd place in the CMU AirLab General Place Recognition Competition at ICRA 2022. Invited talk:  [video](https://www.youtube.com/watch?v=xpEKOyJ7OIU&t=6503s).
