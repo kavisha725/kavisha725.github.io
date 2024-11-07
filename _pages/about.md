@@ -17,7 +17,18 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-# About Me
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
+
+
+## About Me
 * I am a Ph.D. student at the Queensland University of Technology, advised by Prof. [Sridha Sridharan](https://staff.qut.edu.au/staff/s.sridharan) and Prof. [Clinton Fookes](https://staff.qut.edu.au/staff/c.fookes). My project is in collaboration with [CSIRO Robotics](https://research.csiro.au/robotics/), advised by Dr. [Peyman Moghadam](https://people.csiro.au/m/p/peyman-moghadam).
 * During my Ph.D., I interned (twice) at The Australian Institute for Machine Learning, advised by Prof. [Simon Lucey](https://scholar.google.com.au/citations?user=vmAe35UAAAAJ&hl=en). 
 * My research interests lie in the general area of robotic vision and scene understanding. My Ph.D. work mainly focuses on utilizing geometric and temporal priors that are abundant in the context of mobile robotics.
+
+## Awards
+* ICRA 2022 - 2nd place in the General Place Recognition Competition organized by AirLab, Carnegie Mellon University. Invited talk: <i class="fa fa-youtube-play" style="color:red"></i>  [video](https://www.youtube.com/watch?v=xpEKOyJ7OIU&t=6503s).
+* CSIRO Data61 PhD Top-Up Scholarship (2020-2023).
+* High Distinction - Sri Lanka Mathematical Olympiad 2012.
