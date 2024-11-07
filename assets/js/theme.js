@@ -6,7 +6,7 @@ let toggleThemeSetting = () => {
   if (themeSetting == "system") {
     setThemeSetting("light");
   } else if (themeSetting == "light") {
-    setThemeSetting("dark");
+    setThemeSetting("light");
   } else {
     setThemeSetting("system");
   }
@@ -23,7 +23,7 @@ let setThemeSetting = (themeSetting) => {
 
 // Apply the computed dark or light theme to the website.
 let applyTheme = () => {
-  let theme = determineComputedTheme();
+  let theme = "light" //determineComputedTheme();
 
   transTheme();
   setHighlight(theme);
