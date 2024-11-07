@@ -6,7 +6,7 @@ let toggleThemeSetting = () => {
   if (themeSetting == "system") {
     setThemeSetting("light");
   } else if (themeSetting == "light") {
-    setThemeSetting("light");
+    setThemeSetting("dark");
   } else {
     setThemeSetting("system");
   }
@@ -23,7 +23,7 @@ let setThemeSetting = (themeSetting) => {
 
 // Apply the computed dark or light theme to the website.
 let applyTheme = () => {
-  let theme = "light" //determineComputedTheme();
+  let theme = determineComputedTheme();
 
   transTheme();
   setHighlight(theme);
@@ -222,7 +222,7 @@ let determineComputedTheme = () => {
   if (themeSetting == "system") {
     const userPref = window.matchMedia;
     if (userPref && userPref("(prefers-color-scheme: dark)").matches) {
-      return "dark";
+      return "light";
     } else {
       return "light";
     }
