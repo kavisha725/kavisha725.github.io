@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pictures
-permalink: /pictures/
+permalink: /projects/
 description: Some photos from my conference presentations.
 nav: true
 nav_order: 3
